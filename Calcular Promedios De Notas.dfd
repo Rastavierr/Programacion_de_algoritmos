@@ -1,0 +1,210 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+119
+'Ingrese sus notas del ramo Habilidades Básicas De Comunicación en orden, 1, 2, 3, para saber si apruebas o repruebas.'
+5
+1
+17
+nota1,nota2,nota3
+6
+1
+8
+promedio
+26
+(nota1 + nota2+ nota3) / 3
+7
+0
+1
+15
+promedio >= 4.0
+4
+1
+61
+'Reprobaste el ramo Habilidades Básicas De Comunicación =( .'
+13
+4
+1
+146
+'Aprobaste el ramo Habilidades Básicas De Comunicación.                                                                   ¡¡¡FELICIDADES!!!  =) .'
+13
+4
+1
+113
+'Ingrese sus notas del ramo Modelamiento De Base De Datos en orden, 1, 2, 3, para saber si apruebas o repruebas.'
+5
+1
+17
+nota1,nota2,nota3
+6
+1
+8
+promedio
+27
+(nota1 + nota2 + nota3) / 3
+7
+0
+1
+15
+promedio >= 4.0
+4
+1
+55
+'Reprobaste el ramo Modelamiento De Base De Datos =( .'
+13
+4
+1
+158
+'Aprobaste el ramo Modelamiento De Base De Datos.                                                                                     ¡¡¡FELICIDADES!!!  =) .'
+13
+4
+1
+110
+'Ingrese sus notas del ramo Programación De Algortimos en orden, 1, 2, 3, para saber si apruebas o repruebas.'
+5
+1
+17
+nota1,nota2,nota3
+6
+1
+8
+promedio
+26
+(nota1 + nota2+ nota3) / 3
+7
+0
+1
+15
+promedio >= 4.0
+4
+1
+52
+'Reprobaste el ramo Programación De Algoritmos =( .'
+13
+4
+1
+168
+'Aprobaste el ramo Programación De Algortimos.                                                                                                  ¡¡¡FELICIDADES!!!  =) .'
+13
+4
+1
+105
+'Ingrese sus notas del ramo Nivelación Matemática en orden, 1, 2, 3, para saber si apruebas o repruebas.'
+5
+1
+17
+nota1,nota2,nota3
+6
+1
+8
+promedio
+26
+(nota1 + nota2+ nota3) / 3
+7
+0
+1
+15
+promedio >= 4.0
+4
+1
+47
+'Reprobaste el ramo Nivelación Matemática =( .'
+13
+4
+1
+169
+'Aprobaste el ramo Nivelación Matemática.                                                                                                        ¡¡¡FELICIDADES!!!  =) .'
+13
+4
+1
+97
+'Ingrese sus notas del ramo Inglés Básico en orden, 1, 2, 3, para saber si apruebas o repruebas.'
+5
+1
+17
+nota1,nota2,nota3
+6
+1
+8
+promedio
+26
+(nota1 + nota2+ nota3) / 3
+7
+0
+1
+15
+promedio >= 4.0
+4
+1
+39
+'Reprobaste el ramo Inglés Básico =( .'
+13
+4
+1
+179
+'Aprobaste el ramo Inglés Básico.                                                                                                                          ¡¡¡FELICIDADES!!!  =) .'
+13
+4
+1
+105
+'Ingrese sus notas del ramo Proceso De Portafolio en orden, 1, 2, 3, para saber si apruebas o repruebas.'
+5
+1
+17
+nota1,nota2,nota3
+6
+1
+8
+promedio
+26
+(nota1 + nota2+ nota3) / 3
+7
+0
+1
+15
+promedio >= 4.0
+4
+1
+47
+'Reprobaste el ramo Proceso De Portafolio =( .'
+13
+4
+1
+178
+'Aprobaste el ramo Proceso De Portafolio.                                                                                                                 ¡¡¡FELICIDADES!!!  =) .'
+13
+4
+1
+114
+'Ingrese sus notas del ramo Diseño Y Gestión De Requisitos en orden, 1, 2, 3, para saber si apruebas o repruebas.'
+5
+1
+17
+nota1,nota2,nota3
+6
+1
+8
+promedio
+26
+(nota1 + nota2+ nota3) / 3
+7
+0
+1
+15
+promedio >= 4.0
+4
+1
+56
+'Reprobaste el ramo Diseño Y Gestión De Requisitos =( .'
+13
+4
+1
+206
+'Aprobaste el ramo Diseño Y Gestión De Requisitos.                                                                                                                                    ¡¡¡FELICIDADES!!!  =) .'
+13
+1
