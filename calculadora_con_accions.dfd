@@ -1,0 +1,303 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'Ingresar valor de a'
+5
+1
+1
+a
+6
+3
+9
+accion(1)
+6
+'suma'
+9
+accion(2)
+7
+'resta'
+9
+accion(3)
+7
+'multi'
+6
+3
+9
+accion(4)
+10
+'division'
+9
+accion(5)
+10
+'potencia'
+9
+accion(6)
+6
+'raiz'
+6
+2
+9
+accion(7)
+11
+'mayor que'
+9
+accion(8)
+9
+'igual a'
+4
+1
+120
+'Introcuce la accion(s): 1-Suma, 2-Resta, 3-Multiplicacion,     4-Division, 5-Potencia, 6-Raiz, 7-Mayor que, 8-Igual a' 
+5
+1
+1
+s
+7
+0
+1
+5
+1 = s
+7
+0
+1
+5
+2 = s
+7
+0
+1
+5
+3 = s
+7
+0
+1
+5
+4 = s
+7
+0
+1
+5
+5 = s
+7
+0
+1
+5
+6 = s
+7
+0
+1
+5
+7 = s
+7
+0
+1
+6
+8 = s 
+13
+4
+1
+5
+' = '
+4
+1
+19
+'igresa valor de b'
+5
+1
+1
+b
+7
+0
+1
+3
+a=b
+4
+1
+21
+'a no es igual a b ' 
+13
+4
+1
+16
+'a es igual a b'
+13
+13
+13
+4
+1
+7
+'> o <'
+4
+1
+19
+'igresa valor de b'
+5
+1
+1
+b
+7
+0
+1
+3
+a>b
+4
+1
+19
+'a es menor que b '
+13
+4
+1
+19
+'a es mayor que b '
+13
+13
+13
+4
+1
+8
+'^(1/3)'
+4
+1
+19
+'igresa valor de b'
+5
+1
+1
+b
+6
+1
+4
+raiz
+7
+a^(1/3)
+4
+1
+19
+'Resultado ' , raiz
+13
+13
+4
+1
+3
+'^'
+4
+1
+19
+'igresa valor de b'
+5
+1
+1
+b
+6
+1
+8
+potencia
+3
+a^b
+4
+1
+23
+'Resultado ' , potencia
+13
+13
+4
+1
+3
+'/'
+4
+1
+19
+'igresa valor de b'
+5
+1
+1
+b
+6
+1
+8
+division
+3
+a/b
+4
+1
+23
+'Resultado ' , division
+13
+13
+4
+1
+3
+'*'
+4
+1
+19
+'Igresa valor de b'
+5
+1
+1
+b
+6
+1
+5
+multi
+3
+a*b
+4
+1
+20
+'Resultado ' , multi
+13
+13
+4
+1
+3
+'-'
+4
+1
+19
+'Igresa valor de b'
+5
+1
+1
+b
+6
+1
+5
+resta
+3
+a-b
+4
+1
+20
+'Resultado ' , resta
+13
+13
+4
+1
+3
+'+'
+4
+1
+19
+'Igresa valor de b'
+5
+1
+1
+b
+6
+1
+4
+suma
+3
+a+b
+4
+1
+19
+'Resultado ' , suma
+13
+1
