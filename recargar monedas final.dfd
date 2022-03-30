@@ -1,0 +1,108 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+83
+'¿Seguro que deseas recargar monedas?                               1- SI    2- NO'
+5
+1
+1
+x
+7
+0
+1
+5
+x = 1
+4
+1
+103
+'¿Estás seguro?                                                                           1- SI   2-NO'
+5
+1
+1
+z
+7
+0
+1
+5
+z = 1
+4
+1
+91
+'¿Deseas volver al menu principal?                                           1- SI    2-NO'
+5
+1
+1
+c
+7
+0
+1
+5
+c = 1
+13
+4
+1
+83
+'¿Seguro que deseas recargar monedas?                               1- SI    2- NO'
+5
+1
+1
+b
+4
+1
+49
+'Genial :D vas a empezar a recargar tus monedas.'
+8
+1
+1
+b
+1
+1
+1
+1
+2
+20
+1
+1
+1
+4
+1
+43
+'Has recargado las siguientes monedas: ' ,b
+10
+13
+13
+4
+1
+35
+'No has realizado ninguna recarga.'
+13
+13
+4
+1
+49
+'Genial :D vas a empezar a recargar tus monedas.'
+8
+1
+1
+x
+1
+1
+1
+1
+2
+20
+1
+1
+1
+4
+1
+43
+'Has recargado las siguientes monedas: ' ,x
+10
+13
+1
